@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A programming student looking to start a career in the technology field</h3>
 
-- 🌱 I’m currently learning **JS, HTML, CSS, Node.js and SQL** while developing minor projects
+- 🌱 I’m currently learning **JS, HTML, CSS, Node.js and SQL** while developing small study projects
 
 - 📫 How to reach me **mffsho@gmail.com**
 
